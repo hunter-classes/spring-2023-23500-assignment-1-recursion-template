@@ -32,7 +32,8 @@ knights.o: knights.cpp
   #+end_src
 
   *DO NOT CUT AND PASTE THE ABOVE MAKEFILE* - it has spaces not tabs
-  and that will mess things up.
+  and that will mess things up. You can retype it or modify any of
+  your existing Makefiles. 
 
   This project *does not* use doctest for testing.
 
